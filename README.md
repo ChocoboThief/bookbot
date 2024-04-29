@@ -1,2 +1,2 @@
 # bookbot
-My first coding project!
+Welcome to my first project!
